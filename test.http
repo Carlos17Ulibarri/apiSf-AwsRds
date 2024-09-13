@@ -1,0 +1,6 @@
+###
+GET https://resilient-badger-29jks3-dev-ed.trailblaze.my.salesforce-sites.com/services/data/
+
+###
+GET http://localhost:3000/apiSf-AwsRds/Case
+
